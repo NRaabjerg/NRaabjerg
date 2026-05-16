@@ -51,4 +51,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 [![Stampe Media](https://stampe.nu/icons/globe.svg)](https://stampe.nu)
 [![E-mail](https://stampe.nu/icons/email.svg)](https://stampe.nu/contact)
 [![LinkedIn](https://stampe.nu/icons/linkedin.svg)](https://linkedin.com/in/NRaabjerg)
+[![Bluesky](https://stampe.nu/icons/bluesky.svg)](https://bsky.app/profile/nicklasstampe.bsky.social)
 
