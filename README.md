@@ -48,8 +48,10 @@ Open by default. Curious about process. Learning through building.
 
 I'm always open to discussing new projects, creative ideas, or opportunities.
 
-[![Stampe Media](https://stampe.nu/icons/globe.svg)](https://stampe.nu)
-[![E-mail](https://stampe.nu/icons/email.svg)](https://stampe.nu/contact)
-[![LinkedIn](https://stampe.nu/icons/linkedin.svg)](https://linkedin.com/in/NRaabjerg)
-[![Bluesky](https://stampe.nu/icons/bluesky.svg)](https://bsky.app/profile/nicklasstampe.bsky.social)
+<p>
+  <a href="https://stampe.nu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stampe.nu/icons/globe.svg"><img src="https://stampe.nu/icons/globe-light.svg" alt="Stampe Media" height="30"></picture></a>&nbsp;&nbsp;
+  <a href="https://stampe.nu/contact"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stampe.nu/icons/email.svg"><img src="https://stampe.nu/icons/email-light.svg" alt="E-mail" height="30"></picture></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/NRaabjerg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stampe.nu/icons/linkedin.svg"><img src="https://stampe.nu/icons/linkedin-light.svg" alt="LinkedIn" height="30"></picture></a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/stampe.nu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://stampe.nu/icons/bluesky.svg"><img src="https://stampe.nu/icons/bluesky-light.svg" alt="Bluesky" height="30"></picture></a>
+</p>
 
